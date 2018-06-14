@@ -1,6 +1,6 @@
 pkgname=php-xdebug
 pkgver=2.6.0
-pkgrel=1
+pkgrel=2
 pkgdesc="PHP debugging extension"
 arch=('x86_64')
 url="http://www.xdebug.org"
