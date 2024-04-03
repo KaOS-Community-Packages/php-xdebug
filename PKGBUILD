@@ -1,5 +1,5 @@
 pkgname=php-xdebug
-pkgver=3.2.2
+pkgver=3.3.1
 pkgrel=1
 pkgdesc="PHP debugging extension"
 arch=('x86_64')
@@ -9,7 +9,7 @@ depends=('php')
 backup=('etc/php/conf.d/xdebug.ini')
 source=(http://www.xdebug.org/files/xdebug-$pkgver.tgz
 	xdebug.ini)
-md5sums=('c44132e5f49e3b65dfef506b4c6ed2f7'
+md5sums=('e279224d363bb95eab0d3775fae0a08f'
          '0174f042288da1ae3bca1366ccd3ed90')
 
 build() {
